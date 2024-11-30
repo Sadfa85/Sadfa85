@@ -1,9 +1,9 @@
 # What's up Homies :sunglasses: #
-# - ⚡ Fun fact: My friend is not a real gangster
-# - 🔭 I’m currently working on Unity project
-# - 🌱 I’m currently learning C# 
-# - 💬 Ask me about C#
-# - 📫 How to reach me: You know how
+- ⚡ Fun fact: My friend is not a real gangster
+- 🔭 I’m currently working on Unity project
+- 🌱 I’m currently learning C# 
+- 💬 Ask me about C#
+- 📫 How to reach me: You know how
 - 😄 Pronouns: ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
