@@ -1,4 +1,4 @@
-# What's up Homies #
+# What's up Homies :sunglasses: #
 - 🔭 I’m currently working on Unity project
 - 🌱 I’m currently learning C# 
 - 👯 I’m looking to collaborate on ???
